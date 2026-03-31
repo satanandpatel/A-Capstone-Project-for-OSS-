@@ -1,0 +1,11 @@
+--------------------------------------
+Open Source Manifesto
+By satanand_patel on 30 March 2026
+--------------------------------------
+
+I believe in the power of open-source software.
+Using tools like VS code, I experience the true meaning of choice.
+I aspire to build open-source study tool for my university and share it freely with the world.
+Knowledge should be open, collaborative, and accessible to everyone.
+
+This is my contribution to the open-source community.
